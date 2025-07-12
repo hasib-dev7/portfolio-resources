@@ -249,3 +249,51 @@ nav ul li a {
 	display: flex;
 	justify-content: center;
 }
+/* form section */
+.form-section {
+	background-color: #fff8f3;
+	padding-top: 130px;
+	padding-bottom: 130px;
+	/*  */
+	display: flex;
+	justify-content: space-between;
+	gap: 40px;
+}
+.form-text-section {
+	width: 50%;
+}
+.form-text-heading {
+	font-size: 35px;
+	font-weight: 700;
+	color: #181818;
+}
+.form-text-paragraph {
+	font-size: 16px;
+	font-weight: 400;
+	color: #474747;
+	margin: 20px 0;
+}
+.form-text-image {
+	display: flex;
+	gap: 20px;
+}
+/* form */
+.form-message-section {
+	width: 50%;
+}
+.form-message-heading {
+	font-size: 35px;
+	font-weight: 700;
+	color: #181818;
+}
+.form .input-text,
+.form textarea {
+	width: 100%;
+	padding: 20px 40px;
+	margin-top: 20px;
+	border-radius: 8px;
+	border: none;
+}
+.submit {
+	margin-top: 20px;
+}
