@@ -120,3 +120,42 @@ nav ul li a {
 .banner-image {
 	padding-right: 20px;
 }
+/* about section */
+.about-section {
+	margin-top: 130px;
+	background-color: #fff8f3;
+	padding: 130px 156px;
+}
+.about {
+	background-color: #ffffff;
+	padding: 10px;
+	border: 2px solid black;
+	border-radius: 8px;
+}
+.about-heading {
+	color: #181818;
+	font-size: 35px;
+	font-weight: 700;
+	text-align: center;
+}
+.about-paragraph {
+	font-size: 18px;
+	font-weight: 400;
+	color: #757575;
+	text-align: center;
+	margin: 25px 0;
+}
+.about-me {
+	display: flex;
+	justify-content: space-between;
+}
+.about-title {
+	font-size: 18px;
+	font-weight: 400;
+	color: #757575;
+}
+.about-text {
+	font-size: 20px;
+	font-weight: 600;
+	color: #474747;
+}
